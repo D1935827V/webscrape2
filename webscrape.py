@@ -1,6 +1,6 @@
 import requests
 
-stock = "VNQ"
+stock = "BRK.A"
 
 url = "https://alpha-vantage.p.rapidapi.com/query"
 
@@ -16,4 +16,7 @@ response = requests.request("GET", url, headers=headers, params=querystring)
 print(response.text)
 
 result = response.json().get("Global Quote")
-print(result['05. price'])
+price = (result['05. price'])
+
+def get_price():
+    return price
