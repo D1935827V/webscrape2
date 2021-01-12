@@ -18,5 +18,4 @@ print(response.text)
 result = response.json().get("Global Quote")
 price = (result['05. price'])
 
-def get_price():
-    return price
+print (price)

@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <!-- Nathan worked on the Nav bar from the w3 schools website and put it into Jinja so it could be used through out all the project -->
 <html lang="en" xmlns:width="http://www.w3.org/1999/xhtml">
 <head>
@@ -10,8 +11,17 @@
         function result()
         {
         let x = document.getElementById("result").value
-        let y = 1
-        document.getElementById("result").value = y
+        //alert(x)
+        /*$.getJSON('http://127.0.0.1:5000/webservice2?param1=x',
+        function(data, textStatus, jqXHR) {
+        alert(data);
+        }
+        )*/
+        let response = await fetch('http://127.0.0.1:5000/webservice?param1=x')
+        let response2 = await fetch('http://127.0.0.1:5000/webservice2')
+        alert (response2.status);
+        //let y = data
+        document.getElementById("result").value = response
         }
     </script>
 </head>
@@ -182,8 +192,10 @@ span.psw {
             </li>
             <li class="nav-item">
                 <a>
-                    <td colspan="3"><input type="text" id="result"/></td>
-                    <td><input type="button" value="=" onclick="result()"/> </td>
+                    <form method="POST" ID="form" action="/">
+                    <td colspan="3"><input type="text" name="symbol"/></td>
+                    <td><input type="submit" value="= {{price}}" /> </td>
+
 
                 </a>
             </li>
