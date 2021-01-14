@@ -1,20 +1,18 @@
 
-from flask import Flask, render_template, jsonify, request
-#from test import get_price
+from flask import Flask, render_template, request
+from test import get_price
 
 app = Flask(__name__)
 
 
-#@app.route('/', methods=["POST"])
-@app.route('/')
+@app.route('/', methods=["Get", "POST"])
 def home():
-    """if request.method == 'POST':
+    if request.method == 'POST':
         form = request.form
         selection = form["symbol"]
         price=get_price(selection)
     else:
-        price="""""
-    price=""
+        price=""
     return render_template("home.html", price=price)
 
 
@@ -35,9 +33,6 @@ def login():
 @app.route('/about/')
 def about():
     return render_template("about.html")
-
-
-
 
 
 if __name__ == "__main__":

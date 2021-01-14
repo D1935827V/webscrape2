@@ -16,6 +16,6 @@ def get_price(stock):
 
     result = response.json().get("Global Quote")
     price = (result['05. price'])
+
     return price
 
-print(get_price("FLR"))
