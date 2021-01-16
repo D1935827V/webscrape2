@@ -8,6 +8,7 @@
 ### Carter
 
 # Goals Completed 1/11 - 1/15:
+### https://docs.google.com/document/d/1cOyYSBV-tAxc750rJwrvrvdzZGZPljRu9YTWr9MPd1E/edit document for in depth ticket items
 ### Webscrape
 ### About Page
 ### Deployment
