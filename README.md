@@ -9,8 +9,9 @@
 
 # Goals Completed 1/11 - 1/15:
 ### https://docs.google.com/document/d/1cOyYSBV-tAxc750rJwrvrvdzZGZPljRu9YTWr9MPd1E/edit document for in depth ticket items
-### Webscrape
-### About Page
+### Webscrape:
+### <a href="https://github.com/D1935827V/webscrape/projects/1#card-52843095/" target="_blank">About Page</a>
+#### We made an about page that has videos and a description for what stocks are. This page has different layout code to it and is there for those who don't know that much about stocks and to teach them what our website is about.
 ### Deployment
 
 # Summary:
