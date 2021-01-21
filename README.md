@@ -7,7 +7,11 @@
 ### Dane Vestal- D1935827V https://github.com/D1935827V
 ### Carter
 
-
+# Goals Completed 1/11 - 1/15:
+### https://docs.google.com/document/d/1cOyYSBV-tAxc750rJwrvrvdzZGZPljRu9YTWr9MPd1E/edit document for in depth ticket items
+### Webscrape
+### About Page
+### Deployment
 
 # Summary:
 ### Delivery Plans and Content for big Milestones (Fridays, Mid Term, N@tM, and College Board): Big Ticket features with Visuals (UI mockup, Table of data you need to capture, ...):
