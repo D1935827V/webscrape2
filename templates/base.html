@@ -162,7 +162,7 @@ span.psw {
     </head>
 <body>
 <nav class="navbar navbar-icon-top navbar-expand-lg navbar-dark bg-dark">
-    <a class="navbar-brand" href="#">Navbar</a>
+    <a class="navbar-brand" href="/">Navbar</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
@@ -177,21 +177,21 @@ span.psw {
                 </a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="/stocks/">
+                <a class="nav-link" href="{{ url_for('stocks') }}">
                     <i class="fa fa-lock">
                     </i>
                     Stocks
                 </a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="/signup/">
+                <a class="nav-link" href="{{ url_for('signup') }}">
                     <i class="fa fa-envelope-o">
                     </i>
                     Sign Up
                 </a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="/about/">
+                <a class="nav-link" href="{{ url_for('about') }}">
                     <i class="fa fa-envelope-o">
                     </i>
                     About
@@ -200,10 +200,11 @@ span.psw {
         </ul>
         <ul class="navbar-nav ">
             <li class="nav-item">
-                <a class="nav-link" href="#">
-                    <span> <button onclick="document.getElementById('id01').style.display='block'" style="width:auto;">Login</button> </span>
+                <a class="nav-link" href="{{ url_for('login') }}">
+                    <span> <button style="width:auto;">Login</button> </span>
                 </a>
             </li>
+        </ul>
             <!-- <li class="nav-item">
             <a class="nav-link" href="#">
                     <i class="fa fa-globe">
@@ -215,61 +216,15 @@ span.psw {
         </ul>
         <form class="form-inline my-2 my-lg-0">
             <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
+            <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
             <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
         </form> -->
     </div>
 </nav>
-</body>
-</html>
-
-<body>
-
-
-
-<div id="id01" class="modal">
-
-    <form class="modal-content animate" action="/action_page.php" method="post">
-        <div class="imgcontainer">
-            <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
-            <img src="https://png.pngtree.com/png-vector/20191003/ourmid/pngtree-user-login-or-authenticate-icon-on-gray-background-flat-icon-ve-png-image_1786166.jpg" alt="Avatar" class="avatar" width="360" height="360">
-        </div>
-
-        <div class="container">
-            <label for="uname"><b>Username</b></label>
-            <input type="text" placeholder="Enter Username" name="uname" required>
-
-            <label for="psw"><b>Password</b></label>
-            <input type="password" placeholder="Enter Password" name="psw" required>
-
-            <button type="submit">Login</button>
-            <label>
-                <input type="checkbox" checked="checked" name="remember"> Remember me
-            </label>
-        </div>
-
-        <div class="container" style="background-color:#f1f1f1">
-            <button type="button" onclick="document.getElementById('id01').style.display='none'" class="cancelbtn">Cancel</button>
-            <span class="psw">Forgot <a href="#">password?</a></span>
-        </div>
-    </form>
-</div>
-
-<script>
-// Get the modal
-var modal = document.getElementById('id01');
-
-// When the user clicks anywhere outside of the modal, close it
-window.onclick = function(event) {
-    if (event.target == modal) {
-        modal.style.display = "none";
-    }
-}
-</script>
-
-</body>
-
-<body>
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
 {% block content %}{% endblock %}
 </body>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+</html>
+
+
