@@ -1,11 +1,12 @@
 from flask import Flask, render_template, redirect, url_for, request
+from flask_login import LoginManager, UserMixin, login_user, login_required, logout_user, current_user
+from flask_sqlalchemy import SQLAlchemy
 from flask_wtf import FlaskForm
+from flask_wtf.csrf import CSRFProtect
+from werkzeug.security import generate_password_hash, check_password_hash
 from wtforms import StringField, PasswordField, BooleanField
 from wtforms.validators import InputRequired, Email, Length
-from flask_wtf.csrf import CSRFProtect, CSRFError
-from flask_sqlalchemy import SQLAlchemy
-from werkzeug.security import generate_password_hash, check_password_hash
-from flask_login import LoginManager, UserMixin, login_user, login_required, logout_user, current_user
+
 from test import get_price
 
 app = Flask(__name__)
@@ -39,8 +40,7 @@ class RegisterForm(FlaskForm):
     username = StringField('username', validators=[InputRequired(), Length(min=4, max=15)])
     password = PasswordField('password', validators=[InputRequired(), Length(min=8, max=80)])
 
-@app.route('/home', methods=["GET", "POST"])
-@app.route('/')
+@app.route('/', methods=["GET", "POST"])
 def home():
     if request.method == 'POST':
         form = request.form
@@ -54,6 +54,10 @@ def home():
 @app.route('/stocks')
 def stocks():
     return render_template("stocks.html")
+
+@app.route('/jesus')
+def stocks():
+    return render_template("easteregg.html")
 
 
 @app.route('/login', methods=['GET', 'POST'])

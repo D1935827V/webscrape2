@@ -2,66 +2,82 @@
 {% extends "base.html" %}
 {% block content %}
 {{ super() }}
-<html>
-<title>W3.CSS Template</title>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+    * {
+     box-sizing: border-box;
+    }
+
+    body {
+     font-family: ALTERNATE GOTHIC;
+     padding: 10px;
+     background-image: url('/static/img/background1.jpg');
+    }
+
+    /* Middle Text */
+    .section {
+      height: 100%;
+      width: 100%;
+      display: flex;
+      position: fixed;
+      align-items: center;
+      justify-content: center;
+    }
+
+
+    .section1 {
+     font-size: 100px;
+     text-align: center;
+      color: #66FCF1
+    }
+
+    .section2 {
+     font-size: 40px;
+     text-align: center;
+     color: #66FCF1
+    }
+
+    /* Image Code */
+    .floatRight{float:right;margin-left:400px}
+
+    .floatLeft{float:left;margin-right:400px}
+
+    .image {
+    height: 100%;
+    width: 100%;
+    align-items: bottom;
+    justify-content: bottom;
+    }
+
+
+
+
+    </style>
+</head>
 <body>
 
+<form method="POST" ID="form" action="/">
+    <td><input type="text" name="symbol"/></td>
+    <p style="font-size:1.5vw; color:#FFFFFF;">Type in stock symbol above ^</p>
+    <p style="font-size:2vw;"><td><input type="submit" value="click here to search = {{price}}" /> </td></p>
 
-<!-- Header -->
-<header class="w3-display-container w3-content w3-wide" style="max-width:1500px;" id="home">
-    <form method="POST" ID="form" action="/">
-        <td><input type="text" name="symbol"/></td>
-        <p style="font-size:1.5vw; color:#000000;">Type in stock symbol above ^</p>
-        <p style="font-size:2vw;"><td><input type="submit" value="click here to search = {{price}}" /> </td></p>
-</header>
-
-<!-- Page content -->
-<div class="w3-content w3-padding" style="max-width:1564px">
-    <!-- Header -->
-    <header class="w3-display-container w3-content w3-wide" style="max-width:1500px;" id="home">
-        <div class="w3-display-middle w3-margin-top w3-center">
-            <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding w3-black w3-opacity-min"><b>DN</b></span> <span class="w3-hide-small w3-text-grey">Stratton Oakmont</span></h1>
-        </div>
-    </header>
+<div class="section">
+        <span class="section1">
+             Stratton Oakmont <br/>
+                <span class="section2">
+                    "Dream To Be Rich"
+                </span>
 
     <!-- Project Section -->
     <div class="w3-container w3-padding-32" id="projects">
         <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">"Dream To Be Rich"</h3>
     </div>
 
-    <div class="w3-row-padding">
-        <div class="w3-col l3 m6 w3-margin-bottom">
-            <div class="w3-display-container">
-                <img src="/static/img/oakmont.jpg" alt="logo" style="width:100%">
-            </div>
-        </div>
-        <div class="w3-col l3 m6 w3-margin-bottom">
-            <div class="w3-display-container">
-                <img src="/static/img/download.jpg" alt="stocks" style="width:100%">
-            </div>
-        </div>
-        <div class="w3-col l3 m6 w3-margin-bottom">
-            <div class="w3-display-container">
-                <img src="/static/img/unnamed.jpg" alt="unnamed" style="width:100%">
-            </div>
-        </div>
-        <div class="w3-col l3 m6 w3-margin-bottom">
-            <div class="w3-display-container">
-                <img src="/static/img/stratton.jpg" alt="pic" style="width:100%">
-            </div>
-        </div>
+    <div class="image">
+        <link rel="stylesheet" href="style.css" Type="text/css" media="all">
+         <img src="https://i.pinimg.com/originals/61/1a/96/611a965248ed47a2b400f1892cf6c417.png" class="floatRight" width="156.2" height="200">
+         <img src="https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F579180%2Fstock-chart-going-up.jpg&w=700&op=resize" class="floatLeft" width="309 height="200">
     </div>
-    <!-- End page content -->
-</div>
-
-</html>
-
 {% endblock %}
-
-
 
 
 
