@@ -23,11 +23,15 @@
 #### The different pages are going to be changed to make the website look cleaner with a white background and better formating.
 #### This will help make our web api look better and also our the sign up page better.
 
-# Tickets for first half of the trimester
+# Goals Completed 1/11 - 1/15:
 ### Webscrape:
+#### We had a Web Api that pulled data through a search bar in our website
+#### You search up the stock symbol and once you hit search the price for that stock would pop up.
 ### <a href="https://github.com/D1935827V/webscrape/projects/1#card-52843095/" target="_blank">About Page</a>
 #### We made an about page that has videos and a description for what stocks are. This page has different layout code to it and is there for those who don't know that much about stocks and to teach them what our website is about.
-### Deployment
+### Deployment: 
+#### With Dane out of town we didn't have a Rasberry pi so we used Bradley's laptop to run the website.
+#### We had a custom domain name and deployed the website on a windows machine.
 
 # Summary:
 ### Delivery Plans and Content for big Milestones (Fridays, Mid Term, N@tM, and College Board): Big Ticket features with Visuals (UI mockup, Table of data you need to capture, ...):
