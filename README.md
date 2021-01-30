@@ -15,6 +15,7 @@
 
 ### <a href="https://github.com/D1935827V/webscrape2/projects/1#card-53867131" target="_blank">Easter Egg:</a>
 #### We are going to have a secret page hidden in our website.
+#### <a href="https://github.com/D1935827V/webscrape2/blob/master/templates/easteregg.html" target="_blank">Location of teh code</a>
 #### To find this Easter Egg you have to click on a certain image in our website.
 #### This is going to go to a secret game of snake, as well as other code for collegeboard requirements that doesn't fit into our main project.
 #### For example, here is a little code that shows our knowledge of metadata:https://repl.it/@BradleyBartelt1/WebscrapeCollegeBoard#main.py
