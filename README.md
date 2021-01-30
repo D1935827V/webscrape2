@@ -7,7 +7,7 @@
 ### Dane Vestal- D1935827V https://github.com/D1935827V
 ### Carter
 
-# Tickets for second half of the trimester
+# Tickets for 1/29/21
 ### Database:
 #### With the database we are making a functional sign up page which the information is going to be on a sql database. 
 #### The database is going to store the information for the usernames, passwords, and emails of the users.
@@ -16,7 +16,7 @@
 ### Easter Egg:
 #### We are going to have a secret page hidden in our website.
 #### To find this Easter Egg you have to click on a certain image in our website.
-#### This is going to go to a secret game of snake.
+#### This is going to go to a secret game of snake, as well as other code for collegeboard requirements that doesn't fit into our main project.
 
 ### UI update:
 #### We are going to do a whole UI re work because pf the many flaws our previous website had
