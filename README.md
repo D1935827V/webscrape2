@@ -8,30 +8,30 @@
 ### Carter- carterquartararo https://github.com/carterquartararo
 
 # Tickets for 1/29/21
-### Database:
+### <a href="https://github.com/D1935827V/webscrape2/projects/1#card-53867018" target="_blank">Database:</a>
 #### With the database we are making a functional sign up page which the information is going to be on a sql database. 
 #### The database is going to store the information for the usernames, passwords, and emails of the users.
 #### After you complete the signing up you will be able to use that information to login to our website
 
-### Easter Egg:
+### <a href="https://github.com/D1935827V/webscrape2/projects/1#card-53867131" target="_blank">Easter Egg:</a>
 #### We are going to have a secret page hidden in our website.
 #### To find this Easter Egg you have to click on a certain image in our website.
 #### This is going to go to a secret game of snake, as well as other code for collegeboard requirements that doesn't fit into our main project.
 #### For example, here is a little code that shows our knowledge of metadata:https://repl.it/@BradleyBartelt1/WebscrapeCollegeBoard#main.py
 #### This could be emnedded into our easter egg.
 
-### UI update:
+### <a href="https://github.com/D1935827V/webscrape2/projects/1#card-53866938" target="_blank">UI Updates:</a> 
 #### We are going to do a whole UI re work because pf the many flaws our previous website had
 #### The different pages are going to be changed to make the website look cleaner with a white background and better formating.
 #### This will help make our web api look better and also our the sign up page better.
 
 # Goals Completed 1/11 - 1/15:
-### Webscrape:
+### <a href="https://github.com/D1935827V/webscrape2/projects/1#card-53867013" target="_blank">Webscrape:</a>
 #### We had a Web Api that pulled data through a search bar in our website
 #### You search up the stock symbol and once you hit search the price for that stock would pop up.
 ### <a href="https://github.com/D1935827V/webscrape2/projects/1#card-53867032" target="_blank">About Page:</a>
 #### We made an about page that has videos and a description for what stocks are. This page has different layout code to it and is there for those who don't know that much about stocks and to teach them what our website is about.
-### Deployment: 
+### <a href="https://github.com/D1935827V/webscrape2/projects/1#card-53866990" target="_blank">Deployment:</a> 
 #### With Dane out of town we didn't have a Rasberry pi so we used Bradley's laptop to run the website.
 #### We had a custom domain name and deployed the website on a windows machine.
 
