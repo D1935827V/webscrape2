@@ -18,6 +18,7 @@
 #### To find this Easter Egg you have to click on a certain image in our website.
 #### This is going to go to a secret game of snake, as well as other code for collegeboard requirements that doesn't fit into our main project.
 #### For example, here is a little code that shows our knowledge of metadata:https://repl.it/@BradleyBartelt1/WebscrapeCollegeBoard#main.py
+#### This could be emnedded into our easter egg.
 
 ### UI update:
 #### We are going to do a whole UI re work because pf the many flaws our previous website had
