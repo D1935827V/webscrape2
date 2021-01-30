@@ -56,7 +56,7 @@ def stocks():
     return render_template("stocks.html")
 
 @app.route('/jesus')
-def stocks():
+def jesus():
     return render_template("easteregg.html")
 
 
