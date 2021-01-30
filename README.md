@@ -29,7 +29,7 @@
 ### Webscrape:
 #### We had a Web Api that pulled data through a search bar in our website
 #### You search up the stock symbol and once you hit search the price for that stock would pop up.
-### <a href="https://github.com/D1935827V/webscrape/projects/1#card-52843095/" target="_blank">About Page</a>
+### <a href="https://github.com/D1935827V/webscrape2/projects/1#card-53867032" target="_blank">About Page:</a>
 #### We made an about page that has videos and a description for what stocks are. This page has different layout code to it and is there for those who don't know that much about stocks and to teach them what our website is about.
 ### Deployment: 
 #### With Dane out of town we didn't have a Rasberry pi so we used Bradley's laptop to run the website.
