@@ -1,3 +1,4 @@
+import data
 from flask import Flask, render_template, redirect, url_for, request
 from flask_login import LoginManager, UserMixin, login_user, login_required, logout_user, current_user
 from flask_sqlalchemy import SQLAlchemy
@@ -105,6 +106,9 @@ def logout():
 def about():
     return render_template("about.html")
 
+@app.route('/collegeboard')
+def collegeboard():
+    return render_template("collegeboard.html", datalist=data.playlist())
 
 if __name__ == "__main__":
     app.run(debug=True, port='5000', host='127.0.0.1')
