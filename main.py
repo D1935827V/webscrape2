@@ -111,4 +111,5 @@ def collegeboard():
     return render_template("collegeboard.html", datalist=data.playlist())
 
 if __name__ == "__main__":
+    db.create_all()
     app.run(debug=True, port='5000', host='127.0.0.1')
