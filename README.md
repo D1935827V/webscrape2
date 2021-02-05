@@ -7,7 +7,7 @@
 ### Dane Vestal- D1935827V https://github.com/D1935827V
 ### Carter- carterquartararo https://github.com/carterquartararo
 
-# Tickets for 1/29/21
+# Tickets for 1/29 - 2/5
 ### <a href="https://github.com/D1935827V/webscrape2/projects/1#card-53867018" target="_blank">Database:</a>
 #### With the database we are making a functional sign up page which the information is going to be on a sql database. 
 #### The database is going to store the information for the usernames, passwords, and emails of the users.
