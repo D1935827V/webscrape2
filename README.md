@@ -15,11 +15,12 @@
 
 ### <a href="https://github.com/D1935827V/webscrape2/projects/1#card-53867131" target="_blank">Easter Egg:</a>
 #### We are going to have a secret page hidden in our website.
-#### <a href="https://github.com/D1935827V/webscrape2/blob/master/templates/easteregg.html" target="_blank">Location of the code</a>
+#### <a href="https://github.com/D1935827V/webscrape2/blob/master/templates/easteregg.html" target="_blank">snake game code</a>
+#### There is one easter egg that has a secret game of snake if you type /jesus at the end of the url link.
+#### <a href="https://github.com/D1935827V/webscrape2/blob/6adf4011d7bcbbc574c10f7cab1aedff9acf627d/templates/collegeboard.html#L1-L33" target="_blank">code for college board repls</a>
+#### Another easter egg that we have is a bunch of repl codes that go over various different extra college board requirments.
 #### To find this Easter Egg you have to click on a certain image in our website.
-#### This is going to go to a secret game of snake, as well as other code for collegeboard requirements that doesn't fit into our main project.
-#### For example, here is a little code that shows our knowledge of metadata:https://repl.it/@BradleyBartelt1/WebscrapeCollegeBoard#main.py
-#### This could be emnedded into our easter egg.
+
 
 ### <a href="https://github.com/D1935827V/webscrape2/projects/1#card-53866938" target="_blank">UI Updates:</a> 
 #### We are going to do a whole UI re work because pf the many flaws our previous website had
