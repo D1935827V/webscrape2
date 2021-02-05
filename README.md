@@ -23,7 +23,8 @@
 #### To find this Easter Egg you have to click on a certain image in our website.
 
 
-### <a href="https://github.com/D1935827V/webscrape2/projects/1#card-53866938" target="_blank">UI Updates:</a> 
+### <a href="https://github.com/D1935827V/webscrape2/projects/1#card-53866938" target="_blank">UI Updates:</a>
+#### <a href="https://github.com/D1935827V/webscrape2/blob/7cafbc552c3cd7823643f932249a7fa717b645e4/templates/home.html#L1-L117" target="_blank">Location of Code</a>
 #### We are going to do a whole UI re work because pf the many flaws our previous website had
 #### The different pages are going to be changed to make the website look cleaner with a white background and better formating.
 #### This will help make our web api look better and also our the sign up page better.
