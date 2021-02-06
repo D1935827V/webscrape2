@@ -60,7 +60,7 @@
 
     <div class="w3-row-padding">
         <div class="w3-col l3 m6 w3-margin-bottom">
-            <img src="/static/img/nathan.jpg" alt="Nathan" style="width:100%">
+            <img src="/static/img/nathan.JPG" alt="Nathan" style="width:100%">
             <h3>Nathan Lee</h3>
             <p class="w3-opacity">Senior Nighthawk Coder</p>
             <p>My name is Nathan Lee and I am currently a 12th grader at Del Norte High School. I have been working on the front end of our project and it has been a blast learning how to make a website with my group.</p>
@@ -87,11 +87,13 @@
             </button></p>
         </div>
         <div class="w3-col l3 m6 w3-margin-bottom">
-            <img src="/w3images/team4.jpg" alt="Dan" style="width:100%">
+            <img src="/static/img/dane.jpg" alt="Dane" style="width:100%">
             <h3>Dane</h3>
             <p class="w3-opacity">Junior Nighthawk Coder</p>
-            <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
-            <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
+            <p>Hi, my name is Dane! Im in 11th grade and have been having fun coding in Mr, Mortensens class. Im excited to be learning new skills which will help me out in the future</p>
+            <p><button class="w3-button w3-light-grey w3-block" onclick="window.location.href='https://github.com/D1935827V';">
+                GitHub
+            </button></p>
         </div>
     </div>
 
@@ -104,9 +106,13 @@
 
 
     <form method="POST" ID="form" action="/">
+
+        <input type="hidden" name="csrf_token" value="{{ csrf_token() }}"/>
+
         <td><input type="text" name="symbol"/></td>
         <p style="font-size:1.5vw; color:#FFFFFF;">Type in stock symbol above ^</p>
-        <p style="font-size:2vw;"><td><input type="submit" value="click here to search = {{price}}" /> </td></p>
+        <p style="font-size:2vw;"><td><input type="submit" value="click here to search = {{price}}" /> </td>
+    </form>
 
     <!-- End page content -->
 </div>
