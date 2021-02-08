@@ -20,8 +20,8 @@
 #### There is one easter egg that has a secret game of snake if you type /jesus at the end of the url link.
 #### <a href="https://github.com/D1935827V/webscrape2/blob/6adf4011d7bcbbc574c10f7cab1aedff9acf627d/templates/collegeboard.html#L1-L33" target="_blank">code for college board repls</a>
 #### Another easter egg that we have is a bunch of repl codes that go over various different extra college board requirments.
-#### To find this Easter Egg you have to click on a certain image in our website.
-
+#### To find this Easter Egg, click on one of the images on our homepage.
+#### Here is an example something you would find on our easter egg page <a href="https://repl.it/@BradleyBartelt1/Collegeboard-simulations#main.py"></a>
 
 ### <a href="https://github.com/D1935827V/webscrape2/projects/1#card-53866938" target="_blank">UI Updates:</a>
 #### <a href="https://github.com/D1935827V/webscrape2/blob/7cafbc552c3cd7823643f932249a7fa717b645e4/templates/home.html#L1-L117" target="_blank">Location of Code</a>
