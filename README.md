@@ -8,6 +8,11 @@
 ### Dane Vestal- D1935827V https://github.com/D1935827V
 ### Carter- carterquartararo https://github.com/carterquartararo
 
+# Tickets for 2/19
+#### Bying and Selling Feature
+#### Leaderboard feature
+#### Chat feature
+
 # Tickets for 1/29 - 2/5
 ### <a href="https://github.com/D1935827V/webscrape2/projects/1#card-53867018" target="_blank">Database:</a>
 #### With the database we are making a functional sign up page which the information is going to be on a sql database. 
