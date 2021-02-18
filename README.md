@@ -1,4 +1,4 @@
-# Webscrape
+# Stratton Oakmont Stock Trader
 # Runtime link
 # http://strattonstocks.cf:8080/
 
