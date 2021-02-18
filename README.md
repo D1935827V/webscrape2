@@ -1,8 +1,8 @@
 # Stratton Oakmont Stock Trader
-# Runtime link
-# http://strattonstocks.cf:8080/
+## Runtime link
+## http://strattonstocks.cf:8080/
 
-# StockTracker
+# Contributers
 
 ### Nathan Lee- nathanlee27 https://github.com/nathanlee27
 ### Bradley Bartelt- BradleyBartelt https://github.com/BradleyBartelt
