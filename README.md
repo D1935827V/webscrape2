@@ -15,7 +15,7 @@
 ## Buying and Selling Feature
 #### This was the original purpose of our website, and we are finally starting to integrate it in. It is preliminary at the moment, but it outlines our database, python, and HTML knowledge. 
 #### Link to code: https://github.com/D1935827V/webscrape2/blob/master/main.py  (line 133)
-#### location in runtime: Create an account, then type in /buy in the url after the adress (we still need to impiment it in our menus), and you will get to the buy menu.
+#### location in runtime: http://strattonstocks.cf:8080/buy (MUST BE SIGNED IN FIRST) Create an account, then type in /buy in the url after the adress and port (we still need to impiment it in our menus), and you will get to the buy menu.
 
 ## Leaderboard feature
 #### This leaderboard is making use of the information we learned in class during our tech talk with the guest speaker.
@@ -24,8 +24,8 @@
 
 ## Chat feature
 #### The chat feature is another cool way of utilizing our database. It takes your messages, and puts them on a chatboard that everyone can see. 
-#### Link to code:
-#### Link to location in runtime:
+#### Link to code: https://github.com/D1935827V/webscrape2/blob/master/main.py (line 121)
+#### Link to location in runtime: http://strattonstocks.cf:8080/chat (MUST BE SIGNED IN FIRST) Create an account, then type in /chat in the url after the adress and port (we still need to impiment it in our menus), and you will get to the chat board.
 
 # Tickets for 1/29 - 2/5
 ### <a href="https://github.com/D1935827V/webscrape2/projects/1#card-53867018" target="_blank">Database:</a>
