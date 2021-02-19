@@ -10,9 +10,22 @@
 ### Carter- carterquartararo https://github.com/carterquartararo
 
 # Tickets for 2/19
+## This week, we made a lot of use of our SQL database.
+
 ### Buying and Selling Feature
+#### This was the original purpose of our website, and we are finally starting to integrate it in. It is preliminary at the moment, but it outlines our database, python, and HTML knowledge. 
+#### Link to code:
+#### Link to location in runtime:
+
 ### Leaderboard feature
+#### This leaderboard is making use of the information we learned in class during our tech talk with the guest speaker.
+#### Link to code:
+#### Link to location in runtime:
+
 ### Chat feature
+#### The chat feature is another cool way of utilizing our database. It takes your messages, and puts them on a chatboard that everyone can see. 
+#### Link to code:
+#### Link to location in runtime:
 
 # Tickets for 1/29 - 2/5
 ### <a href="https://github.com/D1935827V/webscrape2/projects/1#card-53867018" target="_blank">Database:</a>
