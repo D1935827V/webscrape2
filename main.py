@@ -207,7 +207,21 @@ def collegeboard():
     return render_template("collegeboard.html", datalist=data.playlist())
 
 
+@app.route('/leaderboard')
+@login_required
+def leaderboard():
+    #go to the score table and query it, order it by the score value descending, limit 10 and serve up all of those items I asked for as a list.
+    results = User.query.order_by(desc('balance')).limit(10).all()
+    balances = []
+
+    for result in results:
+        balance_dict = {'username':result.username, 'balance':result.balance}
+        balances.append(balance_dict)
+
+    return render_template('leaderboard.html', balances = balances)
+
+
 if __name__ == "__main__":
     db.create_all()
     #app.run(debug=True, port='5000', host='127.0.0.1')
-    app.run(debug=True, port='8080', host='192.168.1.5')
+    app.run(debug=True, port='5000', host='127.0.0.1')
