@@ -19,7 +19,7 @@
 
 ## Leaderboard feature
 #### This leaderboard is making use of the information we learned in class during our tech talk with the guest speaker. It will display how much money each user has.
-#### Link to code: https://github.com/D1935827V/webscrape2/blob/master/main.py (line 210)
+#### Link to code: https://github.com/D1935827V/webscrape2/blob/a0ef2177ab1d522910a71e5d499fcaa6806c3bd2/main.py#L210-L221 (line 210)
 #### Link to location in runtime: We are currently having troble with this and it hasn't been implimented yet.
 
 ## Chat feature
