@@ -18,9 +18,9 @@
 #### location in runtime: http://strattonstocks.cf:8080/buy (MUST BE SIGNED IN FIRST) Create an account, then type in /buy in the url after the adress and port (we still need to impiment it in our menus), and you will get to the buy menu.
 
 ## Leaderboard feature
-#### This leaderboard is making use of the information we learned in class during our tech talk with the guest speaker.
-#### Link to code:
-#### Link to location in runtime:
+#### This leaderboard is making use of the information we learned in class during our tech talk with the guest speaker. It will display how much money each user has.
+#### Link to code: https://github.com/D1935827V/webscrape2/blob/master/main.py (line 210)
+#### Link to location in runtime: We are currently having troble with this and it hasn't been implimented yet.
 
 ## Chat feature
 #### The chat feature is another cool way of utilizing our database. It takes your messages, and puts them on a chatboard that everyone can see. 
