@@ -12,7 +12,7 @@
 # Tickets for 2/19
 ## This week, we made a lot of use of our SQL database.
 
-## Buying and Selling Feature
+## Buying stocks Feature
 #### This was the original purpose of our website, and we are finally starting to integrate it in. It is preliminary at the moment, but it outlines our database, python, and HTML knowledge. 
 #### Link to code: https://github.com/D1935827V/webscrape2/blob/master/main.py  (line 133)
 #### location in runtime: http://strattonstocks.cf:8080/buy (MUST BE SIGNED IN FIRST) Create an account, then type in /buy in the url after the adress and port (we still need to impiment it in our menus), and you will get to the buy menu.
