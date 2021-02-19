@@ -12,17 +12,17 @@
 # Tickets for 2/19
 ## This week, we made a lot of use of our SQL database.
 
-### Buying and Selling Feature
+## Buying and Selling Feature
 #### This was the original purpose of our website, and we are finally starting to integrate it in. It is preliminary at the moment, but it outlines our database, python, and HTML knowledge. 
-#### Link to code:
-#### Link to location in runtime:
+#### Link to code: https://github.com/D1935827V/webscrape2/blob/master/main.py  (line 133)
+#### location in runtime: Create an account, then type in /buy in the url after the adress (we still need to impiment it in our menus), and you will get to the buy menu.
 
-### Leaderboard feature
+## Leaderboard feature
 #### This leaderboard is making use of the information we learned in class during our tech talk with the guest speaker.
 #### Link to code:
 #### Link to location in runtime:
 
-### Chat feature
+## Chat feature
 #### The chat feature is another cool way of utilizing our database. It takes your messages, and puts them on a chatboard that everyone can see. 
 #### Link to code:
 #### Link to location in runtime:
