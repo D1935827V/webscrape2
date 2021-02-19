@@ -15,6 +15,9 @@
 ## Buying stocks Feature
 #### This was the original purpose of our website, and we are finally starting to integrate it in. It is preliminary at the moment, but it outlines our database, python, and HTML knowledge. 
 #### Link to code: https://github.com/D1935827V/webscrape2/blob/cd8e009708b4c50af9cdcdbfb6b1481b6db3f135/main.py#L133-L150  (line 133)
+#### Link to code html: 
+##### Buy: https://github.com/D1935827V/webscrape2/blob/e00e4ed8bdc5177a63ee80d24b61f295ea16c829/templates/buy.html#L1-L18
+##### Sell: 
 #### location in runtime: http://strattonstocks.cf:8080/buy (MUST BE SIGNED IN FIRST) Create an account, then type in /buy in the url after the adress and port (we still need to impiment it in our menus), and you will get to the buy menu.
 
 ## Leaderboard feature
