@@ -10,8 +10,7 @@
 ### Carter- carterquartararo https://github.com/carterquartararo
 
 # Tickets for 2/19
-## This week, we made a lot of use of our SQL database.
-
+## A recommendation from our crossover group was to make more use of our database for the concept of our project. For this week, we made it our goal to create different ways to use our SQL database.
 ## Buying stocks Feature
 #### This was the original purpose of our website, and we are finally starting to integrate it in. It is preliminary at the moment, but it outlines our database, python, and HTML knowledge. 
 #### Link to python code: https://github.com/D1935827V/webscrape2/blob/cd8e009708b4c50af9cdcdbfb6b1481b6db3f135/main.py#L133-L150  (line 133)
