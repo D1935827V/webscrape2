@@ -11,7 +11,7 @@
 
 # Tickets for 2/19
 ## A recommendation from our crossover group was to make more use of our database for the concept of our project. For this week, we made it our goal to create different ways to use our SQL database.
-## Buying stocks Feature
+## <a href="https://github.com/D1935827V/webscrape2/projects/1#card-55316847" target="_blank">Buying Stocks Feature:</a>
 #### This was the original purpose of our website, and we are finally starting to integrate it in. It is preliminary at the moment, but it outlines our database, python, and HTML knowledge. 
 #### Link to python code: https://github.com/D1935827V/webscrape2/blob/cd8e009708b4c50af9cdcdbfb6b1481b6db3f135/main.py#L133-L150  (line 133)
 #### Link to html code: 
@@ -19,12 +19,13 @@
 ##### Sell: https://github.com/D1935827V/webscrape2/blob/92cf6833b9fa2aadbb6504e0b14c5e0879a53c8e/templates/sell.html#L1-L18
 #### location in runtime: http://strattonstocks.cf:8080/buy (MUST BE SIGNED IN FIRST) Create an account, then type in /buy in the url after the adress and port (we still need to impiment it in our menus), and you will get to the buy menu.
 
-## Leaderboard feature
+## <a href="https://github.com/D1935827V/webscrape2/projects/1#card-55153570" target="_blank">Leaderboard feature:</a>
 #### This leaderboard is making use of the information we learned in class during our tech talk with the guest speaker. It will display how much money each user has.
-#### Link to code: https://github.com/D1935827V/webscrape2/blob/a0ef2177ab1d522910a71e5d499fcaa6806c3bd2/main.py#L210-L221 (line 210)
+#### Link to code python: https://github.com/D1935827V/webscrape2/blob/a0ef2177ab1d522910a71e5d499fcaa6806c3bd2/main.py#L210-L221 (line 210)
+#### Link to html code: https://github.com/D1935827V/webscrape2/blob/0033bd3f42e639634991165a94133c1437a797f4/templates/Leaderboard.html#L1-L28
 #### Link to location in runtime: We are currently having troble with this and it hasn't been implimented yet.
 
-## Chat feature
+## <a href="https://github.com/D1935827V/webscrape2/projects/1#card-55316841" target="_blank">Chat feature:</a>
 #### The chat feature is another cool way of utilizing our database. It takes your messages, and puts them on a chatboard that everyone can see. 
 #### Link to code: https://github.com/D1935827V/webscrape2/blob/93438bb41cf3367f135cddb0f518d5c24e2d39e7/main.py#L121-L130 (line 121)
 #### Link to location in runtime: http://strattonstocks.cf:8080/chat (MUST BE SIGNED IN FIRST) Create an account, then type in /chat in the url after the adress and port (we still need to impiment it in our menus), and you will get to the chat board.
