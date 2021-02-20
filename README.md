@@ -1,7 +1,6 @@
 # Stratton Oakmont Stock Trader
 ## Runtime link
 ## http://strattonstocks.cf:8080/
-## (link works, just very slow due to Dane's internet)
 
 # Contributers
 
@@ -27,7 +26,7 @@
 #### Link to location in runtime: We are currently having troble with this and it hasn't been implimented yet.
 
 ## <a href="https://github.com/D1935827V/webscrape2/projects/1#card-55316841" target="_blank">Chat feature:</a>
-#### The chat feature is another cool way of utilizing our database. It takes your messages, and puts them on a chatboard that everyone can see. 
+#### The chat feature is another cool way of utilizing our database and a way we can add procedures. It takes your messages, and puts them on a chatboard that everyone can see. 
 #### Link to code: https://github.com/D1935827V/webscrape2/blob/93438bb41cf3367f135cddb0f518d5c24e2d39e7/main.py#L121-L130 (line 121)
 #### Link to location in runtime: http://strattonstocks.cf:8080/chat (MUST BE SIGNED IN FIRST) Create an account, then type in /chat in the url after the adress and port (we still need to impiment it in our menus), and you will get to the chat board.
 
