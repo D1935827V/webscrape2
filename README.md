@@ -11,16 +11,16 @@
 ### Carter- carterquartararo https://github.com/carterquartararo
 
 # Major Technicals Completed
-## Working login page with a sql database
+## <a href="https://github.com/D1935827V/webscrape2/projects/1#card-53867018" target="_blank">Working login page with a sql database:</a>
 ### We made a database that has a functional sign up page where the information is stored on a sql database. The database stores the information for the usernames, passwords, and emails of the users. After you complete the signing up you will be able to use that information to login to our website.
 
-## Easter Egg
+## <a href="https://github.com/D1935827V/webscrape2/projects/1#card-53867131" target="_blank">Easter Egg:</a>
 ### We made two different easter egg parts of the sites. One of the easter eggs is when you type /jesus to end of the url a snake game would be there for you to play. The other easter egg is a secret button hidden on our website when you click on the stocks image on the home page. This brings to different college board requirement repls that we have made with descriptions.
 
-## Web Api
+## <a href="https://github.com/D1935827V/webscrape2/projects/1#card-53867013" target="_blank">Web Api:</a>
 ### We have a Web Api that pulled data through a search bar in our website. You search up the stock symbol and once you hit search the price for that stock would pop up.
 
-## About Page
+## <a href="https://github.com/D1935827V/webscrape2/projects/1#card-53867032" target="_blank">About Page:</a>
 ### We made an about page that has videos and a description for what stocks are. This page has different layout code to it and is there for those who don't know that much about stocks and to teach them what our website is about.
 
 # Tickets for 2/19
