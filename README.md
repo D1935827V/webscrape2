@@ -20,7 +20,10 @@
 ### Location of the sign up page http://strattonstocks.cf:8080/signup
 
 ## <a href="https://github.com/D1935827V/webscrape2/projects/1#card-53867131" target="_blank">Easter Egg:</a>
+### 
 ### We made two different easter egg parts of the sites. One of the easter eggs is when you type /jesus to end of the url a snake game would be there for you to play. The other easter egg is a secret button hidden on our website when you click on the stocks image on the home page. This brings to different college board requirement repls that we have made with descriptions.
+### The first easter egg http://strattonstocks.cf:8080/jesus
+### College Board Easter Egg http://strattonstocks.cf:8080/collegeboard
 
 ## <a href="https://github.com/D1935827V/webscrape2/projects/1#card-53867013" target="_blank">Web Api:</a>
 ### We have a Web Api that pulled data through a search bar in our website. You search up the stock symbol and once you hit search the price for that stock would pop up.
