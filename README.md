@@ -35,10 +35,13 @@
 ### College Board Easter Egg http://strattonstocks.cf:8080/collegeboard
 
 ## <a href="https://github.com/D1935827V/webscrape2/projects/1#card-53867013" target="_blank">Web Api:</a>
-### We have a Web Api that pulled data through a search bar in our website. You search up the stock symbol and once you hit search the price for that stock would pop up.
+### <a href="https://github.com/D1935827V/webscrape2/blob/bbb09ae0c6aab25f75a4a816691e83e2d795e877/templates/home.html#L100-L115" target="_blank">Web Api html code</a>
+### <a href="https://github.com/D1935827V/webscrape2/blob/bbb09ae0c6aab25f75a4a816691e83e2d795e877/main.py#L78-L86" target="_blank">Web Api python code</a>
+### We have a Web Api that pulled data through a search bar in our website. You search up the stock symbol and once you hit search the price for that stock would pop up. This is located at the bottom of our homepage. http://strattonstocks.cf:8080/
+
 
 ## <a href="https://github.com/D1935827V/webscrape2/projects/1#card-53867032" target="_blank">About Page:</a>
-### We made an about page that has videos and a description for what stocks are. This page has different layout code to it and is there for those who don't know that much about stocks and to teach them what our website is about.
+### We made an about page that has videos and a description for what stocks are. This page has different layout code to it and is there for those who don't know that much about stocks and to teach them what our website is about. Link: http://strattonstocks.cf:8080/about
 
 # College Board AP connections	# College Board AP connections
 ## Big idea #2 and #3:
