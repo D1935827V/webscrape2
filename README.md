@@ -1,7 +1,8 @@
 # Stratton Oakmont Stock Trader
 ## Runtime link
 ## http://strattonstocks.cf:8080/
-
+## Trailer Link
+## https://www.youtube.com/watch?v=S-OHakYTC0w
 # Contributers
 
 ### Nathan Lee- nathanlee27 https://github.com/nathanlee27
