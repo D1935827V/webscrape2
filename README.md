@@ -1,7 +1,6 @@
 # Stratton Oakmont Stock Trader
 ## Runtime link
 ## http://strattonstocks.cf:8080/
-## (link works, just very slow due to Dane's internet)
 
 # Contributers
 
