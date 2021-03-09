@@ -15,6 +15,7 @@
 ### <a href="https://github.com/D1935827V/webscrape2/blob/569e33765a239c7e7c6805053ce5d8a040e1985c/templates/login.html#L1-L23" target="_blank">Login HTML Code:</a>
 ### <a href="https://github.com/D1935827V/webscrape2/blob/df9fca86a0f3229f0ac31acfbabfca67c9f0d0c4/main.py#L104-L118" target="_blank">Login Python Code:</a>
 ### We made a database that has a functional sign up page where the information is stored on a sql database. The database stores the information for the usernames, passwords, and emails of the users. After you complete the signing up you will be able to use that information to login to our website.
+### Location of the sign up page http://strattonstocks.cf:8080/signup
 
 ## <a href="https://github.com/D1935827V/webscrape2/projects/1#card-53867131" target="_blank">Easter Egg:</a>
 ### We made two different easter egg parts of the sites. One of the easter eggs is when you type /jesus to end of the url a snake game would be there for you to play. The other easter egg is a secret button hidden on our website when you click on the stocks image on the home page. This brings to different college board requirement repls that we have made with descriptions.
