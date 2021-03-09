@@ -19,8 +19,15 @@
 ### We made a database that has a functional sign up page where the information is stored on a sql database. The database stores the information for the usernames, passwords, and emails of the users. After you complete the signing up you will be able to use that information to login to our website. To get to certain features like the chat or the buy feature you have to be logged in.
 ### Location of the sign up page http://strattonstocks.cf:8080/signup
 
+## <a href="https://github.com/D1935827V/webscrape2/projects/1#card-55316847" target="_blank">Buying Stocks Feature:</a>
+#### This was the original purpose of our website, and we are finally starting to integrate it in. It is preliminary at the moment, but it outlines our database, python, and HTML knowledge. 
+#### Link to python code: https://github.com/D1935827V/webscrape2/blob/cd8e009708b4c50af9cdcdbfb6b1481b6db3f135/main.py#L133-L150  (line 133)
+##### Buy: https://github.com/D1935827V/webscrape2/blob/e00e4ed8bdc5177a63ee80d24b61f295ea16c829/templates/buy.html#L1-L18
+##### Sell: https://github.com/D1935827V/webscrape2/blob/92cf6833b9fa2aadbb6504e0b14c5e0879a53c8e/templates/sell.html#L1-L18
+#### location in runtime: http://strattonstocks.cf:8080/buy (MUST BE SIGNED IN FIRST) Create an account, then type in /buy in the url after the adress and port (we still need to impiment it in our menus), and you will get to the buy menu.
+
 ## <a href="https://github.com/D1935827V/webscrape2/projects/1#card-53867131" target="_blank">Easter Egg:</a>
-### 
+### <a href="https://github.com/D1935827V/webscrape2/blob/ce1f96f375493680cc92d6cbc3b37b6bc316c000/templates/easteregg.html#L1-L201" target="_blank">Code for Easter Egg Snake Game:</a>
 ### We made two different easter egg parts of the sites. One of the easter eggs is when you type /jesus to end of the url a snake game would be there for you to play. The other easter egg is a secret button hidden on our website when you click on the stocks image on the home page. This brings to different college board requirement repls that we have made with descriptions.
 ### The first easter egg http://strattonstocks.cf:8080/jesus
 ### College Board Easter Egg http://strattonstocks.cf:8080/collegeboard
@@ -36,7 +43,6 @@
 ## <a href="https://github.com/D1935827V/webscrape2/projects/1#card-55316847" target="_blank">Buying Stocks Feature:</a>
 #### This was the original purpose of our website, and we are finally starting to integrate it in. It is preliminary at the moment, but it outlines our database, python, and HTML knowledge. 
 #### Link to python code: https://github.com/D1935827V/webscrape2/blob/cd8e009708b4c50af9cdcdbfb6b1481b6db3f135/main.py#L133-L150  (line 133)
-#### Link to html code: 
 ##### Buy: https://github.com/D1935827V/webscrape2/blob/e00e4ed8bdc5177a63ee80d24b61f295ea16c829/templates/buy.html#L1-L18
 ##### Sell: https://github.com/D1935827V/webscrape2/blob/92cf6833b9fa2aadbb6504e0b14c5e0879a53c8e/templates/sell.html#L1-L18
 #### location in runtime: http://strattonstocks.cf:8080/buy (MUST BE SIGNED IN FIRST) Create an account, then type in /buy in the url after the adress and port (we still need to impiment it in our menus), and you will get to the buy menu.
