@@ -34,7 +34,7 @@
 ### The first easter egg http://strattonstocks.cf:8080/jesus
 ### College Board Easter Egg http://strattonstocks.cf:8080/collegeboard
 
-## <a href="https://github.com/D1935827V/webscrape2/projects/1#card-53867013" target="_blank">Web Api:</a>
+## <a href="https://github.com/D1935827V/webscrape2/projects/1#card-53867013" target="_blank">Web Api (WOW):</a>
 ### <a href="https://github.com/D1935827V/webscrape2/blob/bbb09ae0c6aab25f75a4a816691e83e2d795e877/templates/home.html#L100-L115" target="_blank">Web Api html code</a>
 ### <a href="https://github.com/D1935827V/webscrape2/blob/bbb09ae0c6aab25f75a4a816691e83e2d795e877/main.py#L78-L86" target="_blank">Web Api python code</a>
 ### We have a Web Api that pulled data through a search bar in our website. You search up the stock symbol and once you hit search the price for that stock would pop up. This is located at the bottom of our homepage. http://strattonstocks.cf:8080/
