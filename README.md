@@ -38,6 +38,18 @@
 ## <a href="https://github.com/D1935827V/webscrape2/projects/1#card-53867032" target="_blank">About Page:</a>
 ### We made an about page that has videos and a description for what stocks are. This page has different layout code to it and is there for those who don't know that much about stocks and to teach them what our website is about.
 
+# College Board AP connections	# College Board AP connections
+## Big idea #2 and #3:
+### Creating a user database in order to store user information on specific stocks they invested in. We will be extending our use of python to include web scraping. We will have a data driven ui because each user will have an account page.
+
+## Big idea #3 :
+### We have created what we want our front page of the website to look like in a google drawing. This google drawing can be seen in the padlet. We also are going to use data in order to provide a custom experience for each individual user.
+
+## Big idea #4: 
+### We will be hosting our website on a raspberry pie. We will also be using HTTP and POST in order to update our websites data on stock prices and calculate how well users portfolio’s are doing. 
+
+## Big idea #5:
+### Our website will be a cool tool to help students learn how to work with stocks. It provides a safe, risk free way to familiarize yourself with investing in stocks and it does a good job showing off what we are capable of with python and HTML. 
 # Tickets for 2/19
 ## A recommendation from our crossover group was to make more use of our database for the concept of our project. For this week, we made it our goal to create different ways to use our SQL database.
 ## <a href="https://github.com/D1935827V/webscrape2/projects/1#card-55316847" target="_blank">Buying Stocks Feature:</a>
@@ -107,15 +119,4 @@
 ### Week 3-Complete dynamic webscraping for stock information that is constantly being updated. Start database for user information and login info. User information includes the stock purchasing/selling and portfolio information as well. The framework for the website will also be setup such as the different pages on the website.
 
 
-# College Board AP connections	# College Board AP connections
-## Big idea #2 and #3:
-### Creating a user database in order to store user information on specific stocks they invested in. We will be extending our use of python to include web scraping. We will have a data driven ui because each user will have an account page.
 
-## Big idea #3 :
-### We have created what we want our front page of the website to look like in a google drawing. This google drawing can be seen in the padlet. We also are going to use data in order to provide a custom experience for each individual user.
-
-## Big idea #4: 
-### We will be hosting our website on a raspberry pie. We will also be using HTTP and POST in order to update our websites data on stock prices and calculate how well users portfolio’s are doing. 
-
-## Big idea #5:
-### Our website will be a cool tool to help students learn how to work with stocks. It provides a safe, risk free way to familiarize yourself with investing in stocks and it does a good job showing off what we are capable of with python and HTML. 
